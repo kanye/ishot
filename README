@@ -5,7 +5,7 @@ The schematic looks something like this:
              | <---- red
              |
           {resistor} 4.7 k.ohms
-      gr       |
+             |
              *      +--------------+
   uc pin *---+------|iButton Reader|
            ^     ^  +--------------+
