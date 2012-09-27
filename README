@@ -1,0 +1,18 @@
+The schematic looks something like this:
+
+  
+            5 v
+             | <---- red
+             |
+          {resistor} 4.7 k.ohms
+      gr       |
+             *      +--------------+
+  uc pin *---+------|iButton Reader|
+           ^     ^  +--------------+
+           |     |      |  blue
+      yellow     green  -
+                        V
+                      ground   
+
+the physical hardwiring is a bit of a Hack,
+the 4.4 kila-ohm resistor is actually 2 2.2 kila-ohm resistors.
